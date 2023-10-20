@@ -1,0 +1,5 @@
+pyinstrument
+scipy
+matplotlib
+networkx
+numpy
